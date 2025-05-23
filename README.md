@@ -3,5 +3,5 @@
 - 📫 Trabalhando com Java e Python
 - 😄 Meu e-mail: irismainardes@gmail.com 
 
-<img src="https://icongr.am/devicon/apple-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/chrome-original.svg?size=128&color=currentColor" width="40" height="40"/>
 
